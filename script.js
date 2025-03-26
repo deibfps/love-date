@@ -1,0 +1,11 @@
+let noClicks = 1;
+const maxNoClicks = 4;
+const minNoScale = 0.65;
+let noScale = 1;
+let yesScale = 1; // Esto rastrea el escalamiento
+const gifElement = document.getElementById("mikasa-gif");
+const noButton = document.getElementById("no-btn");
+const yesButton = document.getElementById("yes-btn");
+const buttonContainer = document.getElementById(".btn-container");
+const yesButtonStyle = window.getComputedStyle(yesButton);
+const maxYesWidth = parseFloat(yesButtonStyle.maxWidth);
