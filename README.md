@@ -15,4 +15,4 @@
 
 #### 🇲🇽  Otorgo credito a Stephanie Ran, graduade de una maestria en Ciencias de la Computacion y licenciada en Biologia en la Universidad de Chicago.
 
-###  🇺🇸  I give credit to Stephanie Ran, a graduate with a master's degree in Computer Science and a bachelor's degree in Biology from the University of Chicago.
+####  🇺🇸  I give credit to Stephanie Ran, a graduate with a master's degree in Computer Science and a bachelor's degree in Biology from the University of Chicago.
