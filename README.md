@@ -4,7 +4,7 @@
 
 ## Como funciona? 💌
 
-#### Este pequeño proyecto invita a tu persona especial a una cita, pero no pueden decir que no (MUCHO OJO 👁️👈, esto no es con el proposito de acosar a absolutamente nadie, recuerden que el consentimiento es muy iumportane, espero que no sea utilizado con otras intenciones).
+#### Este pequeño proyecto invita a tu persona especial a una cita, pero no pueden decir que no (MUCHO OJO 👁️👈, esto no es con el proposito de acosar a absolutamente nadie, recuerden que el consentimiento es indispensable, espero que no sea utilizado con otras intenciones).
 
 ## Elementos 🎏
 - GIFs con tematica de Attack on Titan
